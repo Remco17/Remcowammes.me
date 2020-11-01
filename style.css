@@ -1,0 +1,27 @@
+html {
+    background-color: #252a41;
+}
+#naampie{
+    color: white;
+    font-family: 'Kufam', cursive;
+    font-size: 100px;
+
+}
+
+#Student{
+  color: white;
+  font-family: 'Kufam', cursive;
+  font-size: 70px;
+
+}
+h1 + h2{margin-top: -60px;}
+img{
+  width: 700px;
+
+}
+p{
+  color: white;
+  font-family: 'Kufam', cursive;
+  font-size: 15px;
+  text-align: right;
+}
