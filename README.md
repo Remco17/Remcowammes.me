@@ -1,5 +1,7 @@
 # Remcowammes.me
-A portfolio 
+A portfolio / CV / Selling computer support website. 
 # TO-DO
-- [ ] Finding the right design i want to make for my website
-- [ ] Finding balance between a CV and a Portfolio
+- [X] Finishing first basic version
+- [ ] Making it better for phones
+- [ ] Addings GitHub projects
+- [ ] Making it good looking
