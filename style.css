@@ -7,17 +7,45 @@ html {
     font-size: 100px;
 
 }
-
+body{
+  display: flex;
+}
 #Student{
   color: white;
   font-family: 'Kufam', cursive;
-  font-size: 70px;
+  font-size: 60px;
+  margin-top: -90px;
+}
+#Hulpie{
+  color: white;
+  font-family: 'Kufam', cursive;
+  font-size: 40px;
+  margin-top: -70px;
+}
+#contact_info{
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  margin: auto 0;
+  margin-top:-20px;
+
+}
+a{
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  
+}
+#contact_text{
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 40px;
+  vertical-align: middle;
 
 }
 h1 + h2{margin-top: -60px;}
-img{
-  width: 700px;
-
+#img{
+  max-width: 45%;
 }
 p{
   color: white;
