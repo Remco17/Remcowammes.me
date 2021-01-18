@@ -1,5 +1,5 @@
 # Remcowammes.me
-A portfolio / CV / Selling computer support website. 
+A portfolio / CV
 
 # TO-DO
 - [X] Finishing first basic version
